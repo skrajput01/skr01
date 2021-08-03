@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skrajput01
 - 👀 I’m interested in Python programming related to Physics, Mechanics & Statistics
 - 🌱 I’m currently improving my Python knowledge.
-- Numpy, Matplotlib.pyplot & Pandas
+- NumPy, Matplotlib & Pandas
 - 📫 How to reach me shyam.rajput@hotmail.co.uk
 
 <!---
