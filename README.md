@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python programming related to Physics, Mechanics & Statistics
 - 🌱 I’m currently improving my Python knowledge.
 - NumPy, Matplotlib & Pandas
-- 📫 How to reach me shyam.rajput@hotmail.co.uk
+- 📫 How to reach me skrajput01@hotmail.com
 
 <!---
 skrajput01/skrajput01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
